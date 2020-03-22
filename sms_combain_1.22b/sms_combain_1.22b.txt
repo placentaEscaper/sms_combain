@@ -1,0 +1,114 @@
+Report created: 
+	22.03.2020	19:29:17
+
+Project name: sms_tail_stroke_1.22b.aep
+
+Source files collected to: 
+	C:\Users\maksi\Desktop\sms_out\sms_tail_stroke_1.22b
+
+Source files collected: All
+
+Collected comps:  
+	main
+	sms_top
+	translate button
+	lang_list_1
+	Shape Layer 2 Comp 1
+	Shape Layer 2 Comp 2
+	Shape Layer 2 Comp 3
+	Shape Layer 2 Comp 4
+	Shape Layer 2 Comp 5
+	Shape Layer 2 Comp 6
+	Shape Layer 2 Comp 7
+	Shape Layer 2 Comp 8
+	lang_box_2
+	translated_text
+	sms_bottom
+	shooting
+	shooting2
+	shooting3
+	shooting4
+	shooting 5
+	shoot 6
+	main sms new
+	yes sure(en).mov Comp 1
+	Pre-comp 1
+	Shape Layer 1 Comp 1
+	ватсап смс
+	shoot sms whats up
+	ватсап смс 2
+	ватсап фото грин
+	ватсап фото шут
+	ватсап фото шут 2
+	sh 5
+	fgnfghhhh.png Comp 1
+	7 sms
+	7 sms 2
+	lang_list_2
+	lang_box
+	Shape Layer 2 Comp 9
+	Shape Layer 2 Comp 8
+	Shape Layer 2 Comp 7
+	Shape Layer 2 Comp 6
+	Shape Layer 2 Comp 5
+	Shape Layer 2 Comp 4
+	Shape Layer 2 Comp 3
+	Shape Layer 2 Comp 2
+	lang_list_2
+	lang_box
+	Shape Layer 3 Comp 8
+	Shape Layer 3 Comp 7
+	Shape Layer 3 Comp 6
+	Shape Layer 3 Comp 5
+	Shape Layer 3 Comp 4
+	Shape Layer 3 Comp 3
+	Shape Layer 3 Comp 2
+	Shape Layer 3 Comp 1
+	
+Number of collected files:  23
+
+Size of collected files:  71,3 MB
+
+Collected source files: 
+	C:\Users\maksi\Desktop\sms_out\Asset\top_messages.MP4
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\Bubble (1).png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\Businnes.mp3
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\sim, claro.MP4
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\sms not yet.mov
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\thank you sms.mov
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\translate_text.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\yes sure(en).mov
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\yes sure(sp).mov
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_Assets\zh.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\de.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\en.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\es.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\File.jpg
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\fr.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\IMG_8891 копия.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\ja.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\pt.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\puedo hablar cualquier idioma.MP4
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\ru.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\sms photo.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\sms.png
+	C:\Users\maksi\Desktop\sms_out\sms_combain_1.0b\sms_combain_1.0b\(Footage)\_UFO\ууукк.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  4
+
+Effect:  Dropdown Menu Control
+	
+Effect:  Slider Control
+	
+Effect:  Переводим с
+	
+Effect:  на
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “MS Gothic”, Font style: “Regular”
+
